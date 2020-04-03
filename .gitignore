@@ -1,0 +1,10 @@
+node_modules
+config/keys.dev.js
+client/etc
+
+
+/uploads/*.jpeg
+/uploads/*.jpg
+/uploads/*.png
+!/uploads/default_product_image.png
+!/uploads/default_profile.jpg
